@@ -1,0 +1,3 @@
+# requirements are now in pyproject.toml
+
+-e .
